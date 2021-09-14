@@ -1,24 +1,25 @@
-# Project Name
+# Hack Technology / Project Attempted
 
-![Team Photo](Insert a Team Photo URL here)
-[*how?*](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
-TODO: short project description, some sample screenshots or mockups
+## What you built? 
 
-## Architecture
+TODO: Short description of what you attempted to build
 
-TODO:  descriptions of code organization and tools and libraries used
+Include some screenshots.
+[How?](https://help.github.com/articles/about-readmes/#relative-links-and-image-paths-in-readme-files)
 
-## Setup
+## Who Did What?
 
-TODO: how to get the project dev environment up and running, npm install etc
+TODO: who worked on what part?
 
-## Deployment
+## What you learned
 
-TODO: how to deploy the project
+TODO: what worked / what didn't work
 
 ## Authors
 
 TODO: list of authors
 
 ## Acknowledgments
+
+TODO: cite any tutorials followed here
